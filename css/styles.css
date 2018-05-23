@@ -1,0 +1,27 @@
+h1 {
+  font-family: fantasy;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.head {
+  background-color: #ffaa80;
+  border-style: solid;
+}
+
+  .about {
+  font-family: inherit;
+  color: grey;
+  font-weight: 400;
+  text-align: center;
+}
+
+img {
+  width: auto;
+  height: 400px;
+}
+
+.blog1 {
+  color: #ff5c33;
+  font-family:fantasy;
+}
