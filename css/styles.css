@@ -24,4 +24,7 @@ img {
 .blog1 {
   color: #ff5c33;
   font-family:fantasy;
+  margin: 30px 45px;
+  border: #ff5c33 solid 2px;
+  padding: 20px 20px;
 }
