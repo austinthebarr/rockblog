@@ -1,14 +1,21 @@
 h1 {
-  font-family: fantasy;
-  font-size: 28px;
+  font-family: amatic sc;
+  font-size: 60px;
   font-weight: 600;
+
 }
 
 .head {
   background-color: #ffaa80;
   width: 100%;
   margin: -20px -15px 0px -10px;
-  padding: 20px;
+  padding: 1px 5px 5px 17px;
+  color:#000a17;
+}
+
+.head h1 {
+  border-bottom: 3px solid  #ff9933;
+  width: 15%;
 }
 
 .about {
